@@ -14,7 +14,7 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-        curl https://eservices.moh.gov.sa/API/api/Hospital/GetAllHospitalsPaging?language=1&pageIndex=1&hospitalType=1&nameSearch=&directorateID=-1 | jq . > hospitals.json
+        curl https://www.ic.gov.sa/Umbraco/Surface/Map/getMaps?category=1991,1994,1995,1996,1997 | jq . > invest.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
