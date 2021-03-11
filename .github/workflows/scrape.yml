@@ -1,0 +1,25 @@
+name: Scrape latest data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '6,26,46 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Fetch latest data
+      run: |-
+        curl https://eservices.moh.gov.sa/API/api/Hospital/GetAllHospitals?language=1&hospitalType=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C19%2C35%2C36&nameSearch=&directorateID=-1 | jq . > incidents.json
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
