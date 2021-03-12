@@ -1,23 +1,23 @@
 [
   {
     "page": 1,
-    "pages": 323,
+    "pages": 2,
     "per_page": 50,
-    "total": 16104,
+    "total": 61,
     "sourceid": "2",
     "lastupdated": "2021-02-17"
   },
   [
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "2020",
       "value": null,
       "unit": "",
@@ -26,784 +26,784 @@
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "2019",
-      "value": 427870270,
+      "value": 792966838161.659,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "2018",
-      "value": 419790591,
+      "value": 786521831571.957,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "2017",
-      "value": 411898967,
+      "value": 688586244286.512,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "2016",
-      "value": 404024435,
+      "value": 644935541446.453,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "2015",
-      "value": 396028278,
+      "value": 654269902888.715,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "2014",
-      "value": 387907747,
+      "value": 756350347320.381,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "2013",
-      "value": 379705717,
+      "value": 746647127407.619,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "2012",
-      "value": 371443547,
+      "value": 735974843348.664,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "2011",
-      "value": 363158703,
+      "value": 671238840108.229,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "2010",
-      "value": 354890042,
+      "value": 528207332649.536,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "2009",
-      "value": 346629220,
+      "value": 429097899279.013,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "2008",
-      "value": 338395961,
+      "value": 519796738631.128,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "2007",
-      "value": 330290716,
+      "value": 415964583059.205,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "2006",
-      "value": 322452754,
+      "value": 376900135720.729,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "2005",
-      "value": 314965793,
+      "value": 328459700124.064,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "2004",
-      "value": 307862843,
+      "value": 258742263029.008,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "2003",
-      "value": 301113849,
+      "value": 215807655244.424,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "2002",
-      "value": 294665185,
+      "value": 189605920240.516,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "2001",
-      "value": 288432163,
+      "value": 184137469724.863,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "2000",
-      "value": 282344154,
+      "value": 189514926222.667,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "1999",
-      "value": 276393837,
+      "value": 161716960000,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "1998",
-      "value": 270575803,
+      "value": 146775498092.612,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "1997",
-      "value": 264822188,
+      "value": 165963557420.458,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "1996",
-      "value": 259000953,
+      "value": 158662398750.805,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "1995",
-      "value": 253107289,
+      "value": 143343036351.096,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "1994",
-      "value": 245449409,
+      "value": 135174886501.234,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "1993",
-      "value": 239243261,
+      "value": 132967901424.382,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "1992",
-      "value": 232956352,
+      "value": 137087876662.752,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "1991",
-      "value": 228731685,
+      "value": 132223268484.752,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "1990",
-      "value": 222653373,
+      "value": 117630271802.48,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "1989",
-      "value": 214753970,
+      "value": 95344352823.6969,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "1988",
-      "value": 208889682,
+      "value": 88256162068.9725,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "1987",
-      "value": 203084971,
+      "value": 85695941760.0451,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "1986",
-      "value": 197338142,
+      "value": 86962013010.5552,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "1985",
-      "value": 191650331,
+      "value": 103897892810.979,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "1984",
-      "value": 186035305,
+      "value": 119624918956.209,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "1983",
-      "value": 180505996,
+      "value": 129171602025.147,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "1982",
-      "value": 175061792,
+      "value": 153238991868.875,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "1981",
-      "value": 169698994,
+      "value": 184291888767.191,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "1980",
-      "value": 164420785,
+      "value": 164541658298.596,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "1979",
-      "value": 159218552,
+      "value": 111859726428.738,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "1978",
-      "value": 154111175,
+      "value": 80265732292.5833,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "1977",
-      "value": 149161891,
+      "value": 74188363505.8532,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "1976",
-      "value": 144453278,
+      "value": 64005623870.3227,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "1975",
-      "value": 140040649,
+      "value": 46773303720.8932,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "1974",
-      "value": 135952252,
+      "value": 45412971909.3794,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "1973",
-      "value": 132161298,
+      "value": 14947491056.4605,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "1972",
-      "value": 128598734,
+      "value": 9664067929.6561,
       "unit": "",
       "obs_status": "",
       "decimal": 0
     },
     {
       "indicator": {
-        "id": "SP.POP.TOTL",
-        "value": "Population, total"
+        "id": "NY.GDP.MKTP.CD",
+        "value": "GDP (current US$)"
       },
       "country": {
-        "id": "1A",
-        "value": "Arab World"
+        "id": "SA",
+        "value": "Saudi Arabia"
       },
-      "countryiso3code": "ARB",
+      "countryiso3code": "SAU",
       "date": "1971",
-      "value": 125164745,
+      "value": 7184863276.54536,
       "unit": "",
       "obs_status": "",
       "decimal": 0
